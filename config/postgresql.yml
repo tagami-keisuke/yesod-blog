@@ -1,9 +1,9 @@
 Default: &defaults
-  user: blog
-  password: blog
+  user: yesod
+  password: yesod
   host: localhost
   port: 5432
-  database: blog
+  database: yesod-blog
   poolsize: 10
 
 Development:

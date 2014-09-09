@@ -6,3 +6,6 @@
 /robots.txt RobotsR GET
 
 / HomeR GET POST
+/echo/#Text EchoR GET
+/blog BlogR GET POST
+/blog/#ArticleId ArticleR GET
